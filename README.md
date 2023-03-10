@@ -13,7 +13,10 @@ Conhecimento
 -  <a href="https://www.linkedin.com/in/lucas-cabral-dos-santos-marques-841102230//"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
+[![Lucas status](https://github-readme-stats.vercel.app/api?username=LucasCabral12)](https://github.com/anuraghazra/github-readme-stats)
 
 
-	https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+
+
+
+	
